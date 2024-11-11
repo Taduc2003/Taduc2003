@@ -2,12 +2,6 @@
 - 👀 I’m interested in VietNam food
 - 🌱 I’m currently learning backend
 
-
-## 💻 Tech Stack
-
-## 📊 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taduc2003&langs_count=10&theme=radical&layout=compact)
-
 ### 🛠️ Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
