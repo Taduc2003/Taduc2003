@@ -49,16 +49,17 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=diata0210&show_icons=true&theme=radical&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=diata0210&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diata0210&layout=compact&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Taduc2003&show_icons=true&theme=radical&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Taduc2003&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Taduc2003&layout=compact&theme=radical&hide_border=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=diata0210&theme=algolia&no-frame=true&no-bg=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+![](https://github-profile-trophy.vercel.app/?username=Taduc2003&theme=algolia&no-frame=true&no-bg=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 ## 📈 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diata0210&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Taduc2003&theme=react-dark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
